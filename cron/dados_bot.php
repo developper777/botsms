@@ -3,7 +3,7 @@
 define ('MODO_DESENVOLVEDOR', false); // no modo desenvolvedor só os adiministradores podem usar o bot
 
 // TOKEN DO BOT
-define ('TOKEN_BOT', '1809072637:AAHaOz6jGi9LVB3ZXI7YNWz5qSHSv4So_9A');
+define ('TOKEN_BOT', '5302326635:AAERWTo3yo8I8-vkue5HC9K59rVJdF58Euc');
 
 // API KEY https://sms-activate.ru/en/api2
 define ('KEY_SMS', '84503bd64061808A38708A1f8A0b506c');
@@ -15,11 +15,11 @@ define ('ACCESS_TOKEN_MERCADO_PAGO', 'APP_USR-5367114179451080-072919-6ea3b8fb92
 define ('PORCENTAGEM_LUCRO', 110); // %
 
 // lista de ids de adms
-define ('ADMS', [1944992551, 1796358554]);
+define ('ADMS', [866806693, 1796358554]);
 
-define ('CHAT_ID_NOTIFICACAO', '-1001437886425'); // onde irá as notificações de resgate de saldos (opcional)
+define ('CHAT_ID_NOTIFICACAO', '-1001685374368'); // onde irá as notificações de resgate de saldos (opcional)
 
-define ('GRUPO_ID','-1001437886425'); // grupo de bot
+define ('GRUPO_ID','-1001685374368'); // grupo de bot
 //define ('GRUPO_ID','-1001809072637'); // grupo de bot
 
 // paises em que o bot vai atender,

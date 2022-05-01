@@ -15,7 +15,7 @@ foreach ($bd_tlg->todosUsuarios () as $usuario){
 
 	$msg = $tlg->forwardMessage ([
 	 	'chat_id' => $usuario ['id_telegram'],
-	 	'from_chat_id' => '-100143886425',
+	 	'from_chat_id' => '-1001685374368',
 	 	'message_id' => 42
 	 ]);
 
